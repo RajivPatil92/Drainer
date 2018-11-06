@@ -1,0 +1,23 @@
+{
+  "R1":{
+    "device_type": "cisco_ios",
+    "ip": "192.168.1.1",
+    "username": "rajiv",
+    "password": "lab123",
+    "secret": "lab123"
+  },
+    "R2":{
+    "device_type": "cisco_ios",
+    "ip": "192.168.1.2",
+    "username": "rajiv",
+    "password": "lab123",
+    "secret": "lab123"
+  },
+    "R3":{
+    "device_type": "cisco_ios",
+    "ip": "192.168.1.3",
+    "username": "rajiv",
+    "password": "lab123",
+    "secret": "lab123"
+  }
+}
